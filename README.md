@@ -17,7 +17,7 @@ There are two versions for different types of BMG drive shaft available. They di
 This is a BETA release. Files, instructions, and other stuff might change!
 
 ## BOM
-This extruder is designed to use Shepa mini spare parts. Originally they are BMG dual drive extruder parts, but with one 3x32mm instead of 3x20mm shaft. So you can buy original BMG dual drive spae parts and cut off the shaft by yourself  
+This extruder is designed to use Shepa mini spare parts. Originally they are BMG dual drive extruder parts, but with one 3x32mm instead of 3x20mm shaft. So you can buy original BMG dual drive spare parts and cut off the shaft by yourself  
 
 Motor [LDO-36STH 17/20mm](https://www.aliexpress.com/item/1005002899860754.html)  
 BMG internals [Recommended from Trianglelabs Store](https://www.aliexpress.com/item/4000021186440.html) or [Mellow Store](https://www.aliexpress.com/item/1005002254569027.html) 
