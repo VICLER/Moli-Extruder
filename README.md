@@ -1,7 +1,7 @@
 <h1 align="center">Moli Extruder</h1>
 <p align="center">The most lightweight dual drive filament extuder based on BMG drive gears with 5:1 gear ratio.</p>
 
-![PROJECT_PHOTO](https://github.com/VICLER/Moli-Extruder/blob/main/Render/Moli_Extruder_preview.png)
+![PROJECT_PHOTO](https://github.com/VICLER/Moli-Extruder/blob/main/Render/MoliExtruder_preview.png)
 
 ## Specs
 - Outer dimensions (w/o motor) LxWxH: 37.2 x 28.2 x 48.7 (mm)  
