@@ -8,7 +8,7 @@
 - Filament diameter: 1.75 mm
 - Max feedrate: ~1200 mm/min
 - Max flowrate: ~48 mm³/s
-- Volume of all printed parts: ~6.14 cm³ (~55% less than Sherpa mini, ~63% less than Sailfin and ~52% less than HextrudORT extruder)
+- Volume of all printed parts: ~6.14 cm³ (~63% less than Sailfin, ~55% less than Sherpa mini, ~52% less than HextrudORT and ~30% less than Sherpa micro extruder)
 - Weight: <=25g (w/o motor). With LDO-36STH17-1004AHG: <=95g
 - Mirrored version is also available
 
