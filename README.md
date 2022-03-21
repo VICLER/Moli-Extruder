@@ -1,7 +1,7 @@
 <h1 align="center">Moli Extruder</h1>
 <p align="center">The most lightweight dual drive filament extruder based on BMG drive gears with 5:1 gear ratio.</p>
 
-![PROJECT_PHOTO](https://github.com/VICLER/Moli-Extruder/blob/main/Render/MoliExtruder_preview.png)
+![PROJECT_PHOTO](https://github.com/VICLER/Moli-Extruder/blob/main/Pics/MoliExtruder_preview.png)
 
 ## Specs
 - Outer dimensions (w/o motor) L×W×H: 37.2 × 28.2 × 48.7 (mm)
@@ -15,6 +15,8 @@
 There are two versions for different types of BMG drive shaft available. They differ slightly, so check the measurements of your drive shaft and compare it with the CAD model  
 
 This is a BETA release. Files, instructions, and other stuff might change!
+
+![weight](https://github.com/VICLER/Moli-Extruder/blob/main/Pics/pla_wo_motor.jpg)
 
 ## BOM
 This extruder is designed to use Sherpa mini spare parts. Originally they are BMG dual drive extruder parts, but with one 3×20mm shaft instead of 3×32mm shaft. So you can buy original BMG dual drive spare parts and cut off the shaft by yourself.
